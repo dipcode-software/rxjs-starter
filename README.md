@@ -1,11 +1,21 @@
-# Coursetro RxJS Starter Dev Setup
+# RxJS Starter
 
-This is the end-result of lesson 1 for setting up the development environment.
+RxJS starter base code environment designed for testing RxJS tools.
 
-This includes RxJS, TypeScript and Webpack.
+## Starting development
+Start by cloning the repo:
 
-You can find the course here: [A Comprehensive RxJS Tutorial](https://coursetro.com/courses/25/A-Comprehensive-RxJS-Tutorial---Learn-ReactiveX-for-JavaScript-)
+```shell
+$ git clone git@github.com:dipcode-software/rxjs-starter.git
+$ cd rxjs-starter
+```
 
-Simply clone this repo and run `yarn install`. Then, run `yarn run start`.
+Then run:
+```shell
+$ yarn install
+```
 
-Enjoy!
+And finally run:
+```shell
+$ yarn run start
+```
